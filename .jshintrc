@@ -1,0 +1,26 @@
+{
+    "globals": {
+        "$": false,
+        "window": false,
+        "document": false
+    },
+    "strict": true,
+    "curly": true,
+    "eqeqeq": true,
+    "noarg": true,
+    "noempty": true,
+    "undef": true,
+    "unused": true,
+    "asi": true,
+    "boss": true,
+    "evil": true,
+    "lastsemic": true,
+    "laxcomma": true,
+    "loopfunc": true,
+    "multistr": true,
+    "notypeof": true,
+    "sub": true,
+    "supernew": true,
+    "validthis": true,
+    "esversion": 6
+}

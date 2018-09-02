@@ -1,0 +1,22 @@
+{
+  "name": "visualiztion",
+  "version": "1.0.0",
+  "description": "this is about anmiation and Math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingfengyang101/Visualiztion.js.git"
+  },
+  "keywords": [
+    "anmiation"
+  ],
+  "author": "xyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qingfengyang101/Visualiztion.js/issues"
+  },
+  "homepage": "https://github.com/qingfengyang101/Visualiztion.js#readme"
+}
